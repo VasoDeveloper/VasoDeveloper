@@ -79,7 +79,7 @@
 ## 🧩 Grafo de Contribuições
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=VasoDeveloper&theme=dracula" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=VasoDeveloper&theme=dracula" />
 </p>
 
 ---
