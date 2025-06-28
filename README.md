@@ -79,7 +79,7 @@
 ## 🧩 Grafo de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=VasoDeveloper&theme=dracula" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=VasoDeveloper&theme=dracula" />
 </p>
 
 ---
