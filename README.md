@@ -23,10 +23,20 @@
 
 ## 📱 Contatos
 
-- 📧 **E-mail:** [vasodeveloper@gmail.com](mailto:vasodeveloper@gmail.com)
-- 📸 **Instagram:** [@vasodeveloper](https://instagram.com/vasodeveloper)
-- ▶️ **YouTube:** [@vasodeveloper](https://youtube.com/@vasodeveloper)
-- 💬 **WhatsApp:** [Me chame no WhatsApp](https://wa.me/5521986007988)
+<p align="center">
+  <a href="mailto:vasodeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://instagram.com/vasodeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://youtube.com/@vasodeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://wa.me/5521986007988" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 
 ---
 
@@ -43,6 +53,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js)
 ![API](https://img.shields.io/badge/APIs-333?style=for-the-badge&logo=fastapi)
 ![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VasoDeveloper&theme=onedark&row=1&column=6" alt="Trophies" />
+</p>
 
 ---
 
