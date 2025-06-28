@@ -64,13 +64,37 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Top Langs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VasoDeveloper&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VasoDeveloper&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasoDeveloper&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
+
+## 🧩 Grafo de Contribuições
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=VasoDeveloper&theme=dracula" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🚀 Snake com Contributions (opcional!)
+
+<p align="center">
+  <img src="https://github.com/VasoDeveloper/VasoDeveloper/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  😊 Obrigado por visitar meu perfil! Conecte-se comigo pelas redes acima.
+</p>
 
 <p align="center">
   Feito com 💙 por <strong>VasoDevs</strong> 🚀
