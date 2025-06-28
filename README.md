@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/4febfb4e774ed3a23de41ba24f094508aff5ec1adbcfb98a338d1bb6faab67af/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d446573656e766f6c7665646f723b457370656369616c697374612b656d2b536372697074733b41706169786f6e61646f2b706f722b5465636e6f6c6f6769613b53656d7072652b417072656e64656e646f26666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d343430266865696768743d343526636f6c6f723d663735633765267643656e7465723d747275652673697a653d3232" alt="VasoDevs Banner" />
+  <img src="https://readme-typing-svg.demolab.com?lines=VasoDevs+no+comando!;Criando+automação+sem+limites.;Marin+Kitagawa+Bot+é+realidade.;Aescorp+Bot:+qualidade+e+inovação.;Conectando+ideias+em+APIs+e+Bots!&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" alt="VasoDevs Banner" />
 </p>
 
 <h1 align="center">👋 Olá! Eu sou o VasoDevs</h1>
