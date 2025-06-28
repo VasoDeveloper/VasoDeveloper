@@ -29,7 +29,7 @@
 ## ⚙️ Projetos em destaque
 
 - **Project Systerm:** Hub de automações e soluções, com foco no Marin Kitagawa Chat Bot, Ganyu Legacy, Kitagawa APIs e muito mais.
-- **Aescorp:** Cooperação ativa no desenvolvimento do Aescorp Bot para WhatsApp, junto com o dev Akila.
+- **Aescorp:** Cooperação ativa no desenvolvimento do Aescorp Bot para WhatsApp, e outros projetos, junto com o dev Akila.
 
 ---
 
