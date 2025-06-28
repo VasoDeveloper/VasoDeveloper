@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o VasoDevs</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=VasoDevs+no+comando!;Criando+automação+sem+limites.;Marin+Kitagawa+Bot+é+realidade.;Aescorp+Bot:+qualidade+e+inovação.;Conectando+ideias+em+APIs+e+Bots!&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" alt="VasoDevs Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=VasoDevs+no+comando!;Criando+automação+sem+limites.;Marin+Kitagawa+Bot+é+realidade.;Ganyu+Bot+acima+do+código.;Aescorp+Bot:+qualidade+e+inovação.;Conectando+ideias+em+APIs+e+Bots!&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" alt="VasoDevs Banner" />
 </p>
 
 <p align="center">
