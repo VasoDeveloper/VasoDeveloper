@@ -8,7 +8,6 @@
   🚀 CEO da <strong>Project Systerm</strong> <br>
   🤝 Cooperador da <strong>Aescorp</strong> junto com <strong>Akila</strong> <br>
   🤖 Desenvolvedor do <strong>Marin Kitagawa Chat Bot</strong>, <strong>Ganyu Legacy</strong>, <strong>Kitagawa APIs</strong> e outros projetos ainda não divulgados. <br>
-  💬 Desenvolvedor do <strong>Aescorp Bot</strong> para WhatsApp.
 </p>
 
 ---
